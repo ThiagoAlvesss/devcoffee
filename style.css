@@ -41,6 +41,7 @@ nav{
 }
 
 .menu{
+    margin-top: 0.625rem;
     display: flex;
     gap: 1.5rem;
     color: #FFF2E780;
@@ -49,6 +50,7 @@ nav{
 .github{
     color: #FFF2E7;
     font-weight: 600;
+    margin-top: 0.625rem;
 }
 
 main{
@@ -120,7 +122,7 @@ hr{
 .button-container{
     width: 100%;
     max-width: 1120px;
-    margin: auto;
+    margin-left: 11.5rem;
     transform: translate("0, -50%");
 }
 
